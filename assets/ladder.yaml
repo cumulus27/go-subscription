@@ -1,0 +1,10 @@
+ladders:
+  - id: 0
+    name: US
+    url: vmess://ladder0url
+    level: 0
+
+  - id: 1
+    name: JP
+    url: vmess://ladder1url
+    level: 1
