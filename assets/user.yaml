@@ -1,0 +1,8 @@
+users:
+  - id: 0
+    hash: user0hash
+    level: 0
+
+  - id: 1
+    hash: user1hash
+    level: 1
